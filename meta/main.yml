@@ -1,9 +1,9 @@
 ---
 galaxy_info:
-  author: Suguru Hirahara
-  company: progressiv
+  author: Oneill
+  company: SGC
   role_name: excalidraw_room
-  namespace: progressiv
+  namespace: P3X-118
   description: Excalidraw collaboration server
   platforms:
     - name: Debian

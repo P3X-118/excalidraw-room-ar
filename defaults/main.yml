@@ -35,7 +35,7 @@ excalidraw_room_container_image_force_pull: "{{ excalidraw_room_container_image.
 
 excalidraw_room_container_image_self_build: true
 excalidraw_room_container_image_self_build_name: "excalidraw/excalidraw-room:{{ excalidraw_room_container_image_self_build_repo_version }}"
-excalidraw_room_container_image_self_build_repo: "https://github.com/excalidraw/excalidraw-room.git"
+excalidraw_room_container_image_self_build_repo: "https://github.com/P3X-118/excalidraw-room.git"
 excalidraw_room_container_image_self_build_repo_version: "master"
 excalidraw_room_container_image_self_build_src_files_path: "{{ excalidraw_room_base_path }}/docker-src"
 
